@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "417629789820",
+    "project_id": "fire-tercero",
+    "storage_bucket": "fire-tercero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417629789820:android:93b315c5615b7e4e11b3f9",
+        "android_client_info": {
+          "package_name": "com.jottaflutter.fire_logins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417629789820-0rm1je30poiut4ii7gj3415qtatiq6f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0-IFYgg-P2zYm_bqOc79OW53-Z1--aBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417629789820-0rm1je30poiut4ii7gj3415qtatiq6f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
